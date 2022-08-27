@@ -108,6 +108,7 @@ Celem testowania niefunkcjonalnego jest ocena określonych charakterystyk (bezpi
 ![4TKQKg.png](https://iili.io/4TKQKg.png)
 
 Jest cała magiczna norma (na razie odmawiam uczenia się tych cyferek ale w tym przypadku to ISO/IEC 25010) która wymienia charakterystyki jakościowe systemu:
+
 ![4TKtUJ.png](https://iili.io/4TKtUJ.png)
 
 **Wydajność** testujemy przeprowadzając testy wydajnościowe (stałe obciążenie), obciążeniowe (chwilowy skok obciążenia, np. standardowo 1000 użytkowników a podczas weekendowej promocji 5000) oraz przeciążeniowe (np. 10000 użytkowników by sprawdzić obsługę błędów)
