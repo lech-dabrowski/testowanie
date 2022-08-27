@@ -30,7 +30,7 @@ Sprawdzenie i dostarczenie dowodu na to, że produkt spełnia wymagania i potrze
 - ilość czasu poświęconego na naprawę defektów vs. cały czas na tworzenie kodu
 - pokrycie wymagań oraz kodu testami
 
-![image](https://iili.io/4TJCNt.jpg)
+![image](https://iili.io/4TJWUQ.jpg)
 
 # Siedem zasad testowania
 
@@ -64,7 +64,7 @@ Po pierwsze, zawsze można coś przegapić. Dlatego zbieramy dupochrony w postac
 
 # Proces Testowy (model PAPIWU, hehe)
 
- [![papiwu]([image URL link](https://iili.io/4TJCNt.jpg))](anchor link)
+![image](https://iili.io/4TJCNt.jpg)
 
 Info z sylabusa, którego nie było w materiałach:
 Planowanie: Analiza - CO? należy przetestować
