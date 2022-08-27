@@ -45,7 +45,7 @@ Nie ma sensu testować 10 tysięcy kombinacji dla czterocyfrowego PINu jeżeli p
 ## 3. Wczesne testowanie oszczędza czas i pieniądze
 
 Koszt naprawienia błędu rośnie wykładniczo wraz z postępem prac nad oprogramowaniem.
-![image](https://iili.io/4T23yN.jpg)
+![image](https://freeimage.host/i/4T27t9)
 
 ## 4. Kumulowanie się defektów
 
