@@ -64,7 +64,7 @@ Po pierwsze, zawsze można coś przegapić. Dlatego zbieramy dupochrony w postac
 
 # Proces Testowy (model PAPIWU, hehe)
 
-![](https://freeimage.host/i/4TJCNt)
+![Alt text](https://freeimage.host/i/4TJCNt "a title")
 
 Info z sylabusa, którego nie było w materiałach:
 Planowanie: Analiza - CO? należy przetestować
