@@ -13,14 +13,17 @@ każda czynność związana z wytworzeniem oprogramowania ma odpowiadające jej
 ## Modele wytwarzania
 
 ![4T3Hx9.jpg](https://iili.io/4T3Hx9.jpg)
+
 Model sekwencyjny w którym czynności testowe zaczynają się jak najwcześniej - na przykład definiując wymagania zaczynamy planować testy akceptacyjne.
 
 ![4T3KUx.jpg](https://iili.io/4T3KUx.jpg)
+
 Schemat modelu SCRUM w którym tester jest częścią zespołu uczestniczącego w sprintach.
 
 ## Poziomy testów
 
 ![4T3RUv.jpg](https://iili.io/4T3RUv.jpg)
+
 Dla każdego poziomu testów możemy wyróżnić:
 
 - podstawę testów
@@ -34,6 +37,7 @@ Dla każdego poziomu testów możemy wyróżnić:
 
 Testy wykonywane najczęściej przez programistów, ma modułach, które da się wywołać oddzielnie.
 ![4T3V0G.jpg](https://iili.io/4T3V0G.jpg)
+
 Na kolejnych slajdach pojawiło się pojęcie TDD - Test Driven Development. Chyba taka bardziej ciekawostka - najpierw tworzy się testy a potem funkcjonalność. Niby fajne bo testy jako dokumentacja są zawsze aktualne a błędy znajduje się i naprawia szybko i tanio, ale brzmi to niepraktycznie i jedną z wade jest właśnie potrzeba dyscypliny w zepole.
 
 ## Testy integracyjne
@@ -50,6 +54,7 @@ Integrujemy albo moduły albo systemy (np. integrację istniejącego systemu skl
 ## Strategie integracji
 
 ![4TFBrG.jpg](https://iili.io/4TFBrG.jpg)
+
 Strategie są różne i chyba nie tak super ważne, ale na powyższym diagramie widać kilka ciekawych rzeczy: moduły 4 i 6 są krytyczne (można je przetestować jako piwersze), moduły 1, 2 i 5 można przetestować po kolei, zaś moduł 4 testujemy tylko z 3.
 
 W sytuacji, gdy na potrzeby przeprowadzenia testu modułu trzeba zasymulować resztę systemu, tworzymy **jarzmo testowe** składające się ze **sterowników** (coś, co symuluje dane wejściowe wywołujące testowany moduł) oraz **zaślepek** (symuluje zachowanie modułu wywoływanego przez ten obecnie testowany)
@@ -67,6 +72,7 @@ Pierwsze testy całego systemu. Powinny być wykonywane przez niezależny zespó
 
 Podstawą testów akceptacyjnych jest plan dotychczas wykonanych testów oraz informacje o wymaganiach wobec finalnego produktu. Jednym z założeń jest, by były wykonywane przez zespół pracowników twórcy systemu oraz jego odbiorcy.
 ![4TK28x.png](https://iili.io/4TK28x.png)
+
 Testy akceptacyjne dzielimy ze względu na charakter akceptowanej cechy na:
 
 - **Akceptację użytkownika (User Acceptance testing - UAT)** - testujemy czy finalny produkt spełnia potrzeby docelowej grupy użytkowników.
@@ -100,6 +106,7 @@ Przypadki można pogrupować w **zestawy testów,**
 
 Celem testowania niefunkcjonalnego jest ocena określonych charakterystyk (bezpieczeństwo, niezawodność itd.). Jest to nadal test dynamiczny (odpala się program) zaś jego podstawą jest albo specyfikacja wymagań albo przypadki i historyjki użytkownika.
 ![4TKQKg.png](https://iili.io/4TKQKg.png)
+
 Jest cała magiczna norma (na razie odmawiam uczenia się tych cyferek ale w tym przypadku to ISO/IEC 25010) która wymienia charakterystyki jakościowe systemu:
 ![4TKtUJ.png](https://iili.io/4TKtUJ.png)
 
@@ -118,6 +125,7 @@ nie mam pojęcia co robi tutaj, bo jest szczegółowo opisane w rozdziale 4 a po
 
 Test potwierdzający, inaczej retest sprawdza czy zgłoszona usterka została naprawiona. Wykonuje się ten sam test, który usterkę ujawnił i oczekuje się, że jego ponowne wykonanie nie ujawni błędu. Test jest prosty i z reguły się go nie automatyzuje.
 ![4TfdiX.png](https://iili.io/4TfdiX.png)
+
 Test regresji ma na celu sprawdzenie czy modyfikacja kodu, która naprawiła wspomniany błąd nie spodowowała błędów w innych częściach aplikacji. Jeżeli naprawiony błąd przykładowo blokował dostęp do części funkcjonalności, należy przetestować czy jest ona wolna od usterek. Ze względu na swój czasochłonny charakter testy regresji są często automatyzowane.
 ![4TfFls.png](https://iili.io/4TfFls.png)
 
