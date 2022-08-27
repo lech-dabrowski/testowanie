@@ -30,7 +30,7 @@ Sprawdzenie i dostarczenie dowodu na to, że produkt spełnia wymagania i potrze
 - ilość czasu poświęconego na naprawę defektów vs. cały czas na tworzenie kodu
 - pokrycie wymagań oraz kodu testami
 
-![](https://freeimage.host/i/4TJWUQ)
+![image](https://iili.io/4TJCNt.jpg)
 
 # Siedem zasad testowania
 
