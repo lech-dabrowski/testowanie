@@ -68,6 +68,9 @@ Po pierwsze, zawsze można coś przegapić. Dlatego zbieramy dupochrony w postac
 ![image](https://iili.io/4TJCNt.jpg)
 
 Info z sylabusa, którego nie było w materiałach:
+
 Planowanie: Analiza - CO? należy przetestować
+
 Projektowanie - JAK? należy przetestować
+
 Implementacja - Czy mamy wszystko by rozpocząć testy?
