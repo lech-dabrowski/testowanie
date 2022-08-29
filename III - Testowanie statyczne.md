@@ -110,6 +110,6 @@ wykorzystuje scenariusze i przypadki użycia oraz proste listy kontrolne. Dobrze
 
 analiza dokumentu wchodząc w rolę przyszłego użytkownika tego dokumentu
 
-## czytanie oparte na perspektywie
+### czytanie oparte na perspektywie
 
 bardziej rozbudowana wersja powyższego, gdzie przeglądający przyjmują perspektywę użytkowników końcowych (administracja, marketing, inni interesariusze). Stosuje się listy kontrolne i tworzy dokumentację.
