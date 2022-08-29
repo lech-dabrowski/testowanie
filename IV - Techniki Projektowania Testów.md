@@ -36,6 +36,7 @@ Jeśli w przypadkach testowych są stosowane niepoprawne klasy równoważności,
 Rozszerzenie techniki testowania klas równowazności, ale stosowana tylko dla **uporządkowanych klas**, kóre zawierają **dane liczbowe lub sekwencyjne**.
 
 ![4NCerx.png](https://iili.io/4NCerx.png)
+
 Analiza wartości brzegowych może zostać zastosowana na każdym poziomie testowania.
 Na egzaminie do analizy wartości brzegowych zakładamy technikę trzypunktową
 
@@ -46,7 +47,8 @@ Tablica decyzyjna przedstawia kombinację wejść (warunków) z odpowiadającymi
 - złożonych reguł biznesowych, które oprogramowanie musi realizować
 - wymagań zawierających warunki i zależności logiczne
 - tablice decyzyjne mogą być wykorzystywane na każdym poziomie testów, gdzie działanie systemu zależy od kilku decyzji logicznych.
-  ![4NnXvp.jpg](https://iili.io/4NnXvp.jpg)
+
+![4NnXvp.jpg](https://iili.io/4NnXvp.jpg)
 
 ### Przejścia między stanami
 
