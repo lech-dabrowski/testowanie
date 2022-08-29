@@ -140,4 +140,5 @@ Warto wspomnieć, że w zależności od kontekstu projektu różne strategie mo�
 ### Analiza wpływu ryzyka (ryzyko = prawdopodonieństwo * wpływ)
 
 ![4N558u.png](https://iili.io/4N558u.png)
+
 Z powyższej tabelki wynika przykładowo, że choć szansa na wystąpienie ryzyka 2 jest bardzo mała, to jednak jest na tyle poważne, by mieć najwyższy poziom.
